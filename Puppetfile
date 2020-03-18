@@ -1,6 +1,6 @@
 mod 'puppet/ngix', '1.0.0'
 mod 'puppetlabs/stdlib'
-mod 'puppetlbas/concat'
+mod 'puppetlabs/concat'
 mod 'puppetlabs/translate'
 mod 'samuelson/dockeragent'
 mod 'puppetlabs/docker'
